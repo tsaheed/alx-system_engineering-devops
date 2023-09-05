@@ -1,2 +1,2 @@
 #!/bin/baeh
-egrep -c "bin" /etc/passwd
+egrep -c -l  "bin" /etc/passwd
